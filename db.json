@@ -109,7 +109,34 @@
         "category": "Bakery",
         "star": "5.0 ",
         "description": "Delicious white baked fresh bread and toast"
+      },
+
+      {
+        "image": "https://maraviyainfotech.com/projects/carrot-tailwind/assets/img/product/11.jpg",
+        "price": 20.05,
+        "category": "Snacks",
+        "star": "5.0 ",
+        "description": "Sweet crunchy nut mix 250gm pack"
+      },
+
+      {
+        "image": "https://maraviyainfotech.com/projects/carrot-tailwind/assets/img/product/3.jpg",
+        "price": 50.30,
+        "category": "Fruits",
+        "star": "5.0 ",
+        "description": "Organic fresh venila farm watermelon 5kg"
+      },
+
+      {
+        "image": "https://maraviyainfotech.com/projects/carrot-tailwind/assets/img/product/3.jpg",
+        "price": 120.30,
+        "category": "Fruits",
+        "star": "5.0 ",
+        "description": "Fresh organic apple 1kg simla marming"
       }
+
+
+     
      
     ]
   }
