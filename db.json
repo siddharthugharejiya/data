@@ -141,6 +141,16 @@
         "description": "Sweet crunchy nut mix 250gm pack",
         "id": "7"
       },
+      {
+        
+        "image": "https://maraviyainfotech.com/projects/carrot-tailwind/assets/img/product/10.jpg",
+        "price": 110.25,
+        "category": "Snacks",
+        "star": "5.0 ",
+        "description": "Sweet crunchy nut mix 250gm pack",
+        "id": "9"
+      },
+    
 
       {
         "image": "https://maraviyainfotech.com/projects/carrot-tailwind/assets/img/product/3.jpg",
@@ -155,5 +165,6 @@
 
      
      
-    ]
+    ],
+    "cart":[]
   }
